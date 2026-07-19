@@ -1,0 +1,5 @@
+/* Center all embedded images (![[image.png]]) in both Reading view and Live Preview */
+.image-embed {
+  display: flex;
+  justify-content: center;
+}
