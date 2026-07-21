@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87f0adfde04fb5a6",
+        "id": "4130144b7d2cbcd2",
         "type": "tabs",
         "children": [
           {
-            "id": "a70be0ad9589198d",
+            "id": "e8c11368374ca686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Goldbach/16. Trifecta Trade Plans.md",
+                "file": "Knowledge/Goldbach/23. Market maker mapping with Goldbach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Trifecta Trade Plans"
+              "title": "23. Market maker mapping with Goldbach"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Daily/\" ",
+                "query": "tag:#execution",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +204,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: vtanh1905@Tuans-Mac-mini:~/Workspaces/Obsidian/trading-notes"
+              "title": "Terminal: git add ."
             }
           },
           {
@@ -257,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,51 +274,52 @@
   },
   "active": "a455fa0894fd7401",
   "lastOpenFiles": [
-    "Knowledge/Goldbach/16. Trifecta Trade Plans.md",
-    "Knowledge/Goldbach/assets/16. Trifecta Trade Plans/file-20260719182816199.png",
-    "Knowledge/Goldbach/assets/16. Trifecta Trade Plans/file-20260719181730188.png",
-    "Knowledge/Goldbach/assets/16. Trifecta Trade Plans",
-    "Knowledge/Goldbach/15. Shifted months - look back basics.md",
-    "Knowledge/Goldbach/assets/15. Shifted months - look back basics/file-20260719154836210.png",
-    "Knowledge/Goldbach/assets/15. Shifted months - look back basics",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 Shifted months - look back basics.md",
+    "Knowledge/Goldbach/23. Market maker mapping with Goldbach.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-21 - Market maker mapping with Goldbach.md",
     "Knowledge/Goldbach/Transcripts/_template.md",
-    "Knowledge/Goldbach/Transcripts/Untitled.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 Goldbach structure shift and confirmation.md",
-    "Knowledge/Goldbach/14. Goldbach block, gaps and liquidity.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 Goldbach block, gaps and liquidity.md",
-    "Knowledge/Goldbach/1. PO3 Number.md",
-    "Knowledge/Goldbach/13. Optimal PO3 dealing range.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 Optimal PO3 dealing range.md",
-    "Knowledge/Goldbach/12. Calibrated Goldbach Levels.md",
-    "Knowledge/Goldbach/assets/12. Calibrated Goldbach Levels/file-20260719110021325.png",
-    "Knowledge/Goldbach/assets/12. Calibrated Goldbach Levels/file-20260719105548277.png",
-    "Knowledge/Goldbach/assets/12. Calibrated Goldbach Levels/file-20260719105421095.png",
+    "Knowledge/Goldbach/Transcripts/2026-07-21 - Amplified PO3 stop runs.md",
+    "Knowledge/Goldbach/22. Amplified PO3 stop runs.md",
+    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721064314228.png",
+    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721064045993.png",
+    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721064011108.png",
+    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721063918617.png",
+    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs",
+    "Knowledge/Goldbach/21. Amplified market structure.md",
+    "Knowledge/Goldbach/assets/21. Amplified market structure/file-20260721062643286.png",
+    "Knowledge/Goldbach/assets/21. Amplified market structure/file-20260721062544954.png",
+    "Knowledge/Goldbach/assets/21. Amplified market structure",
+    "Knowledge/Goldbach/20. Stop Loss Placement.md",
+    "Knowledge/Goldbach/19. Higher Time Frame Protocol.md",
+    "Knowledge/Goldbach/18. Einstein Trade Plan.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-21 - Amplified market structure.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-20 - Stop Loss Placement.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - Shifted months - look back basics.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-20 - New York open trade plan.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-20 - Higher Time Frame Protocol.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-20 - Einstein Trade Plan.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - PO3 and dealing range stop runs.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - Optimal PO3 dealing range.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - Non Goldbach Numbers.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - Goldbach structure shift and confirmation.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - Goldbach block, gaps and liquidity.md",
+    "Knowledge/Goldbach/Transcripts/2026-07-19 - Calibrated Goldbach Levels.md",
+    "Knowledge/Goldbach/Transcripts/assets/2026-07-19 - Calibrated Goldbach Levels",
+    "Knowledge/Goldbach/Transcripts/2026-07-18 - Last Line of Defense (LLOD).md",
+    "Knowledge/Goldbach/Transcripts/2026-07-18 - Goldbach Inversion Point (GIP).md",
+    "Knowledge/Goldbach/Transcripts/2026-07-17 - Liquidity Layer.md",
+    "Daily/2026-07-20.md",
+    "Daily/assets/2026-07-20/file-20260720201839698.png",
+    "Daily/assets/2026-07-20/file-20260720201834722.png",
+    "Daily/assets/2026-07-20/file-20260720201552622.png",
+    "Daily/assets/2026-07-20/file-20260720201500736.png",
+    "Daily/assets/2026-07-20",
+    "Untitled.canvas",
+    "Knowledge/Goldbach/assets/17. New York open trade plan",
+    "Knowledge/Goldbach/assets/16. Trifecta Trade Plans",
+    "Knowledge/Goldbach/assets/15. Shifted months - look back basics",
     "Knowledge/Goldbach/assets/12. Calibrated Goldbach Levels",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 PO3 and dealing range stop runs.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 Calibrated Goldbach Levels.md",
-    "Knowledge/Goldbach/Transcripts/assets/2026-07-19 Calibrated Goldbach Levels/file-20260719103447391.png",
     "Knowledge/Goldbach/Transcripts/assets/2026-07-19 Calibrated Goldbach Levels",
     "Knowledge/Goldbach/Transcripts/assets",
-    "Knowledge/Goldbach/11. PO3 and dealing range stop runs.md",
-    "Knowledge/Goldbach/6. Goldbach Levels.md",
-    "Knowledge/Goldbach/7. Price Cycles.md",
-    "Knowledge/Goldbach/8. Goldbach Trifecta Layers.md",
-    "Knowledge/Goldbach/9. Goldbach Inversion Point (GIP).md",
-    "Knowledge/Goldbach/5. Blocks, Gaps and Liquidity.md",
-    "Knowledge/Goldbach/4. Goldbach Number.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 Non Goldbach Numbers.md",
-    "Knowledge/Goldbach/assets/11. PO3 and dealing range stop runs/file-20260719072905269.png",
-    "Knowledge/Goldbach/assets/11. PO3 and dealing range stop runs/file-20260719072848605.png",
-    "Knowledge/Goldbach/assets/11. PO3 and dealing range stop runs",
-    "Knowledge/Goldbach/Transcripts/2026-07-18 Last Line of Defense (LLOD).md",
-    "Knowledge/Goldbach/Transcripts/2026-07-17 - Liquidity Layer.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-18 Goldbach Inversion Point (GIP).md",
-    "Daily/assets/2026-07-16/file-20260716200905800.png",
-    "Daily/assets/2026-07-16",
-    "Knowledge/Goldbach/Transcripts",
-    "Daily/assets/2026-07-15",
-    "Knowledge/Goldbach/assets/8. Goldbach Trifecta Layers",
     "test.canvas",
     "trading-journal/Untitled.canvas"
   ]
