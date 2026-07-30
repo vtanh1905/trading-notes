@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4130144b7d2cbcd2",
+        "id": "74f05cc5787e322e",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c11368374ca686",
+            "id": "7cc9660e2e92fccf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Knowledge/Goldbach/23. Market maker mapping with Goldbach.md",
-                "mode": "source",
-                "source": false
+                "file": "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "23. Market maker mapping with Goldbach"
+              "icon": "excalidraw-icon",
+              "title": "Bài 1 - Market Flow.excalidraw"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#execution",
+                "query": "VPO — Volume Price Opp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 380.5
   },
   "right": {
     "id": "2aac9784713b6969",
@@ -204,7 +202,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: git add ."
+              "title": "Terminal: vtanh1905@Tuans-Mac-mini:~/Workspaces/Obsidian/trading-notes"
             }
           },
           {
@@ -257,7 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 584.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,57 +267,58 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "terminal:Open terminal": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a455fa0894fd7401",
   "lastOpenFiles": [
-    "Knowledge/Goldbach/23. Market maker mapping with Goldbach.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-21 - Market maker mapping with Goldbach.md",
-    "Knowledge/Goldbach/Transcripts/_template.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-21 - Amplified PO3 stop runs.md",
-    "Knowledge/Goldbach/22. Amplified PO3 stop runs.md",
-    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721064314228.png",
-    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721064045993.png",
-    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721064011108.png",
-    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs/file-20260721063918617.png",
-    "Knowledge/Goldbach/assets/22. Amplified PO3 stop runs",
-    "Knowledge/Goldbach/21. Amplified market structure.md",
-    "Knowledge/Goldbach/assets/21. Amplified market structure/file-20260721062643286.png",
-    "Knowledge/Goldbach/assets/21. Amplified market structure/file-20260721062544954.png",
-    "Knowledge/Goldbach/assets/21. Amplified market structure",
-    "Knowledge/Goldbach/20. Stop Loss Placement.md",
-    "Knowledge/Goldbach/19. Higher Time Frame Protocol.md",
-    "Knowledge/Goldbach/18. Einstein Trade Plan.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-21 - Amplified market structure.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-20 - Stop Loss Placement.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - Shifted months - look back basics.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-20 - New York open trade plan.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-20 - Higher Time Frame Protocol.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-20 - Einstein Trade Plan.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - PO3 and dealing range stop runs.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - Optimal PO3 dealing range.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - Non Goldbach Numbers.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - Goldbach structure shift and confirmation.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - Goldbach block, gaps and liquidity.md",
-    "Knowledge/Goldbach/Transcripts/2026-07-19 - Calibrated Goldbach Levels.md",
-    "Knowledge/Goldbach/Transcripts/assets/2026-07-19 - Calibrated Goldbach Levels",
-    "Knowledge/Goldbach/Transcripts/2026-07-18 - Last Line of Defense (LLOD).md",
-    "Knowledge/Goldbach/Transcripts/2026-07-18 - Goldbach Inversion Point (GIP).md",
-    "Knowledge/Goldbach/Transcripts/2026-07-17 - Liquidity Layer.md",
-    "Daily/2026-07-20.md",
-    "Daily/assets/2026-07-20/file-20260720201839698.png",
-    "Daily/assets/2026-07-20/file-20260720201834722.png",
-    "Daily/assets/2026-07-20/file-20260720201552622.png",
-    "Daily/assets/2026-07-20/file-20260720201500736.png",
-    "Daily/assets/2026-07-20",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow.excalidraw.md",
+    "Knowledge/Market-Flow/_Market Flow (MOC).md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/Bài 1 - Market Flow (dont remove).md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/Bài 1 - Market Flow.md",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260730073946_813.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_160.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_149.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_141.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260728222345_556.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260728222319_452.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260728222119_379.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_155.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_144.png",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_063.png",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Tổng quan.excalidraw.md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Types of Auction.excalidraw.md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Volume Profile Shapes.excalidraw.md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - VPO Flat.excalidraw.md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Fail Option.excalidraw.md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - AMT.excalidraw.md",
+    "Knowledge/Market-Flow/VPO vs TPO — cách quan sát.md",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets",
+    "Knowledge/Market-Flow/_Glossary/DOM.md",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow (dont remove).md",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow.md",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/assets",
+    "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow",
+    "Knowledge/Market-Flow/_Markdown (backup)",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow (Canvas).excalidraw.md",
+    "Daily/2026-07-27.md",
+    "Dashboard/narrative-dashboard.md",
+    "Daily/assets/2026-07-27",
+    "Excalidraw/Drawing 2026-07-27 18.51.21.excalidraw.md",
+    "Excalidraw",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/drawings/B1 - AMT.excalidraw.md",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/drawings/B1 - Tổng quan.excalidraw.md",
+    "Knowledge/Market-Flow/_Glossary/VPO.md",
+    "Knowledge/Market-Flow/_Glossary/Value Area.md",
+    "Knowledge/Market-Flow/_Glossary/VAL.md",
+    "Knowledge/Market-Flow/_Glossary/TPO.md",
+    "Knowledge/Market-Flow/_Glossary/RTH.md",
+    "Knowledge/Market-Flow/_Glossary",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow/drawings",
     "Untitled.canvas",
-    "Knowledge/Goldbach/assets/17. New York open trade plan",
-    "Knowledge/Goldbach/assets/16. Trifecta Trade Plans",
-    "Knowledge/Goldbach/assets/15. Shifted months - look back basics",
-    "Knowledge/Goldbach/assets/12. Calibrated Goldbach Levels",
-    "Knowledge/Goldbach/Transcripts/assets/2026-07-19 Calibrated Goldbach Levels",
-    "Knowledge/Goldbach/Transcripts/assets",
     "test.canvas",
     "trading-journal/Untitled.canvas"
   ]
