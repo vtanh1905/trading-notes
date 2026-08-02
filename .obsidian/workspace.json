@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "74f05cc5787e322e",
+        "id": "6059bdfb21d45c27",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc9660e2e92fccf",
+            "id": "4d2310d7df27db04",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow.excalidraw.md"
+                "file": "Knowledge/Market-Flow/Bài 2 - Initial Balance.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Bài 1 - Market Flow.excalidraw"
+              "title": "Bài 2 - Initial Balance.excalidraw"
             }
           }
         ]
@@ -202,7 +202,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: vtanh1905@Tuans-Mac-mini:~/Workspaces/Obsidian/trading-notes"
+              "title": "Terminal: ✳ Draw Excalidraw diagram from two images"
             }
           },
           {
@@ -247,11 +247,11 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: ✳ Giải thích stop-run range trong tài liệu Goldbach"
+              "title": "Terminal: git add ."
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -271,22 +271,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a455fa0894fd7401",
+  "active": "a7131395cef010a8",
   "lastOpenFiles": [
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow.excalidraw.md",
+    "Knowledge/Market-Flow/Bài 2 - Initial Balance.excalidraw.md",
+    "Knowledge/Market-Flow/Bài 2/page-1.jpeg",
+    "Knowledge/Market-Flow/Bài 2/page-2.jpeg",
+    "Knowledge/Market-Flow/Bài 2",
+    "Knowledge/Market-Flow/Bài 1 - Market Flow.excalidraw.md",
+    "Daily/2026-07-31.md",
+    "Daily/assets/2026-07-31/file-20260731201335163.png",
+    "Daily/assets/2026-07-31/file-20260731200905961.png",
+    "Daily/assets/2026-07-31/file-20260731200735921.png",
+    "Daily/assets/2026-07-31/file-20260731200440959.png",
+    "Daily/assets/2026-07-31",
+    "Dashboard/narrative-dashboard.md",
+    "Daily/2026-07-30.md",
+    "Daily/assets/2026-07-30/file-20260730203249674.png",
+    "Daily/assets/2026-07-30/file-20260730202926876.png",
+    "Daily/assets/2026-07-30/file-20260730202811418.png",
+    "Daily/assets/2026-07-30/file-20260730202332105.png",
+    "Daily/assets/2026-07-30",
     "Knowledge/Market-Flow/_Market Flow (MOC).md",
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/Bài 1 - Market Flow (dont remove).md",
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/Bài 1 - Market Flow.md",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260730073946_813.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_160.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_149.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_141.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260728222345_556.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260728222319_452.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260728222119_379.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_155.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_144.png",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw/Pasted Image 20260729161247_063.png",
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Tổng quan.excalidraw.md",
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Types of Auction.excalidraw.md",
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Volume Profile Shapes.excalidraw.md",
@@ -294,8 +301,8 @@
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - Fail Option.excalidraw.md",
     "Knowledge/Market-Flow/_Markdown (backup)/Bài 1 - Market Flow/drawings/B1 - AMT.excalidraw.md",
     "Knowledge/Market-Flow/VPO vs TPO — cách quan sát.md",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets/Bài 1 - Market Flow.excalidraw",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/assets",
+    "Knowledge/Market-Flow/assets/Bài 1 - Market Flow.excalidraw",
+    "Knowledge/Market-Flow/assets",
     "Knowledge/Market-Flow/_Glossary/DOM.md",
     "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow (dont remove).md",
     "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow.md",
@@ -305,19 +312,13 @@
     "Knowledge/Market-Flow/_Markdown (backup)",
     "Knowledge/Market-Flow/Bài 1 - Market Flow/Bài 1 - Market Flow (Canvas).excalidraw.md",
     "Daily/2026-07-27.md",
-    "Dashboard/narrative-dashboard.md",
     "Daily/assets/2026-07-27",
     "Excalidraw/Drawing 2026-07-27 18.51.21.excalidraw.md",
-    "Excalidraw",
     "Knowledge/Market-Flow/Bài 1 - Market Flow/drawings/B1 - AMT.excalidraw.md",
     "Knowledge/Market-Flow/Bài 1 - Market Flow/drawings/B1 - Tổng quan.excalidraw.md",
     "Knowledge/Market-Flow/_Glossary/VPO.md",
     "Knowledge/Market-Flow/_Glossary/Value Area.md",
     "Knowledge/Market-Flow/_Glossary/VAL.md",
-    "Knowledge/Market-Flow/_Glossary/TPO.md",
-    "Knowledge/Market-Flow/_Glossary/RTH.md",
-    "Knowledge/Market-Flow/_Glossary",
-    "Knowledge/Market-Flow/Bài 1 - Market Flow/drawings",
     "Untitled.canvas",
     "test.canvas",
     "trading-journal/Untitled.canvas"
